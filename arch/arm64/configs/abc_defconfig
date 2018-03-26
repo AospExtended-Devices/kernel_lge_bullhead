@@ -3,6 +3,9 @@
 # ----------------------------------------------------------------------------------
 CONFIG_LOCALVERSION="-ABCkernel-Oreo"
 # CONFIG_LOCALVERSION_AUTO is not set
+CONFIG_WIREGUARD=y
+# CONFIG_WIREGUARD_DEBUG is not set
+
 
 CONFIG_AUDIT=y
 CONFIG_NO_HZ=y
